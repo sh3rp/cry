@@ -1,3 +1,4 @@
+![cry](/cry.jpg)
 # Cry
 
 Go version of the ccrypt utility.  
